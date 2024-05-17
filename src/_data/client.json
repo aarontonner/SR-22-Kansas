@@ -1,0 +1,15 @@
+{
+  "name": "SR22 Insurance Kansas",
+  "email": "EMAIL@EMAIL.com",
+  "phoneForTel": "000-000-0000",
+  "phoneFormatted": "(000) 000-0000",
+  "address": {
+    "lineOne": "ADDRESS LINE 1",
+    "lineTwo": "ADDRESS LINE 2",
+    "city": "Kansas",
+    "state": "Kansas",
+    "zip": "ZIP",
+    "mapLink": "https://www.google.com/maps/place/Kansas,+USA/@38.4683258,-100.9657459,7z/data=!3m1!4b1!4m6!3m5!1s0x87a31771717c016b:0x68c2b4a94b3e095f!8m2!3d39.011902!4d-98.4842465!16zL20vMDQ4OGc?entry=ttu"
+  },
+  "domain": "https://www.sr22insurancekansas.com"
+}
