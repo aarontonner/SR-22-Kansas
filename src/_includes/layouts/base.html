@@ -86,7 +86,7 @@
     <title>
       {% if page.url == '/sdfg'%} {{ title }} | {{ client.name }} | {{
       client.address.city }}, {{ client.address.state }} {% else %} {{ title }}
-      | {{ client.name }} {% endif %}
+      {% endif %}
     </title>
   </head>
   <body>
@@ -97,6 +97,6 @@
 
     {% include "components/header.html" %}
     <main id="main">{% block body %}{% endblock %}</main>
-    {% include "components/footer.html" %} {% include "components/map.html" %}
+    {% include "components/footer.html" %}
   </body>
 </html>
